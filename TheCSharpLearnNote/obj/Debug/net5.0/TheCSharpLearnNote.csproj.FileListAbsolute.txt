@@ -1,0 +1,16 @@
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\bin\Debug\net5.0\TheCSharpLearnNote.exe
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\bin\Debug\net5.0\TheCSharpLearnNote.deps.json
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\bin\Debug\net5.0\TheCSharpLearnNote.runtimeconfig.json
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\bin\Debug\net5.0\TheCSharpLearnNote.runtimeconfig.dev.json
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\bin\Debug\net5.0\TheCSharpLearnNote.dll
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\bin\Debug\net5.0\ref\TheCSharpLearnNote.dll
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\bin\Debug\net5.0\TheCSharpLearnNote.pdb
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\TheCSharpLearnNote.csproj.AssemblyReference.cache
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\TheCSharpLearnNote.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\TheCSharpLearnNote.AssemblyInfoInputs.cache
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\TheCSharpLearnNote.AssemblyInfo.cs
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\TheCSharpLearnNote.csproj.CoreCompileInputs.cache
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\TheCSharpLearnNote.dll
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\ref\TheCSharpLearnNote.dll
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\TheCSharpLearnNote.pdb
+D:\codeworkbase\Csharp\_git\TheCSharpLearnNote\TheCSharpLearnNote\obj\Debug\net5.0\TheCSharpLearnNote.genruntimeconfig.cache
